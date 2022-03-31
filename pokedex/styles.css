@@ -10,6 +10,7 @@ form {
 input {
     width: 100%;
     padding: 10px;
+    background-color: rgb(159, 197, 228);
 }
 
 .poke-card {
@@ -22,7 +23,7 @@ input {
     text-align: center;
     padding: 10px;
     margin: 0 auto;
-    background-color: #FFF;
+    background-color: rgb(159, 197, 228);
     border: 1px solid black;
 }
 
